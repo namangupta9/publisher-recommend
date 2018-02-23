@@ -11,5 +11,5 @@ High fidelity product design, project 1 for ENTR 390 at the University of Michig
 
 ## Typography
 <p align="left">
-  <img src="http://outspoken.wpshower.com/wp-content/uploads/2013/10/tumblr_mqd53jkf3F1sbzjuno1_12801.jpg" alt="screen animation"/>
+  <img src="https://fiu-assets-2-syitaetz61hl2sa.stackpathdns.com/static/samples/1/381/880/1/570e201c/akkurat.png" alt="screen animation"/>
 </p>
