@@ -1,8 +1,8 @@
-# publisher-recommend
+# publisher-recommend: high fidelity product design
 
 <b>Travel More Tastefully™</b>
 
-*High fidelity product design, project 1 for ENTR 390 at the University of Michigan.*
+*A platform to consolidate and access travel recommendations from your favorite publications. *
 
 <p align="left">
   <img src="https://media.giphy.com/media/2wXXBT148ZFyhDG3WP/giphy.gif" alt="screen animation"/>
