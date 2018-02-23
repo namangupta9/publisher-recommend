@@ -1,4 +1,4 @@
-# publisher-recommend: high fidelity product design
+# publisher-recommend (hi-fi product design)
 
 <b>Travel More Tastefully™</b>
 
