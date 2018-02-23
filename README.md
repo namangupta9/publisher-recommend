@@ -2,7 +2,7 @@
 
 <b>Travel More Tastefully™</b>
 
-*A platform to consolidate and access travel recommendations from your favorite publications. *
+*A platform to consolidate and access travel recommendations from your favorite publications.*
 
 <p align="left">
   <img src="https://media.giphy.com/media/2wXXBT148ZFyhDG3WP/giphy.gif" alt="screen animation"/>
