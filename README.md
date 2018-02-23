@@ -1,6 +1,7 @@
-# publisher-recommend (hi-fi product design)
+# publisher-recommend
 
 <b>Travel More Tastefully™</b>
+<b>A High-Fidelity Mockup</b>
 
 *A platform to consolidate and access travel recommendations from your favorite publications.*
 <br></br>
